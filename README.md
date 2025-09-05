@@ -24,7 +24,8 @@ Foi feito com orientação do professor e representa um dos meus primeiros passo
 3. Execute no terminal:
   - php desafio1.php
 
-## > Requisitos: PHP 8.0 ou superior
+## > Requisitos: 
+PHP 8.0 ou superior
 
 ## 📚 Tecnologias utilizadas
 
@@ -36,7 +37,7 @@ Foi feito com orientação do professor e representa um dos meus primeiros passo
 
 **André Luiz Blazius**  
 Estudante de desenvolvimento Backend | Auxiliar de PCP  
-📧 al858177@gmail.com  
+📧 al2981085@gmail.com  
 📍 Ibirama, SC – Brasil
 
 ---
