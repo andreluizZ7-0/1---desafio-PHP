@@ -1,15 +1,15 @@
-# Desafio 1 – Cadastro Simples em PHP
+# Desafio 1 – Simulação de ações Bancária em PHP
 
 Este projeto foi desenvolvido como parte dos meus estudos no curso de Backend com PHP da Alura. O objetivo foi aplicar conceitos básicos de programação e lógica utilizando PHP puro.
 
 ## 🧠 Sobre o projeto
 
-O código realiza um cadastro simples, com foco em:
+O código simula uma conta bancária simples, com foco em:
 
-- Manipulação de variáveis
-- Estruturas condicionais
+- Manipulação de saldo
+- Operações de saque e depósito
+- Validação de valores
 - Saída de dados no terminal
-- Organização básica de código
 
 Foi feito com orientação do professor e representa um dos meus primeiros passos na área de desenvolvimento.
 
